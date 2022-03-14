@@ -1,9 +1,13 @@
 # Welcome!
 Welcome to my Github pages! Here I will be including reflections for each week and including my tech talk notes. 
+
 Page: https://dubshott.github.io/ds2p2abhijayd/
+
 Repl.it: https://replit.com/@GodlyGoats/ds2p2abhijayd#.replit
 
-## Week 0: [Review Ticket for Week 0!](https://github.com/gracele246/theshop/issues/3)
+Team Github: https://github.com/gracele246/theshop
+
+Personal Github: https://github.com/Dubshott/ds2p2abhijayd
 
 Ticket is linked right up there!!! ^^^
 
