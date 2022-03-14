@@ -1,10 +1,11 @@
 # Welcome!
 Welcome to my Github pages! Here I will be including reflections for each week and including my tech talk notes. 
-
 Page: https://dubshott.github.io/ds2p2abhijayd/
 Repl.it: https://replit.com/@GodlyGoats/ds2p2abhijayd#.replit
 
-## Week 0
+## Week 0: [Ticket](https://github.com/gracele246/theshop/issues/3)
+
+Ticket is linked right up there!!! ^^^
 
 **Notes**
 - [Link to Notes](https://github.com/nighthawkcoders/nighthawk_csa/wiki/Tri-3:-Tech-Talk-0---Data-Structures)
