@@ -1,7 +1,8 @@
 # Welcome!
 Welcome to my Github pages! Here I will be including reflections for each week and including my tech talk notes. 
 
-https://dubshott.github.io/ds2p2abhijayd/
+Page: https://dubshott.github.io/ds2p2abhijayd/
+Repl.it: https://replit.com/@GodlyGoats/ds2p2abhijayd#.replit
 
 ## Week 0
 
