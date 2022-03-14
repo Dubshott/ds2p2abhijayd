@@ -13,6 +13,9 @@ https://dubshott.github.io/ds2p2abhijayd/
 **AP Prep**
 - I think I need to spend a little more time on arrays and things because it seems like an important concept, but I don't really understand much of it just yet. 
 - Another thing that I could spend time on is classes and instances again because it seems like I forgot some of the core concepts of it. 
+- One specific thing that I could spend more time learning is the hashmap thing because I am not too familiar with this type of data structure. 
 
 **Code Snippets**
-1. [Create Hashmap](
+1. [Create Hashmap Menu](https://github.com/Dubshott/ds2p2abhijayd/blob/main/menu.java)
+2. [Swap Numbers](https://github.com/Dubshott/ds2p2abhijayd/blob/main/swapper.java)
+3. [Matrix](https://github.com/Dubshott/ds2p2abhijayd/blob/main/matrix.java)
