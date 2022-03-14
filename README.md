@@ -1,6 +1,8 @@
 # Welcome!
 Welcome to my Github pages! Here I will be including reflections for each week and including my tech talk notes. 
 
+https://dubshott.github.io/ds2p2abhijayd/
+
 ## Week 0
 
 **Hard Things**
