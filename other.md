@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # The 商店 (Shop)
 
 Pronounced "shāng diàn"
