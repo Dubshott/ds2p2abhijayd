@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 This is where all the tech talk information goes! 
 
 # Week 1
