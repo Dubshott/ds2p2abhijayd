@@ -2,6 +2,18 @@
 
 This is where all the tech talk information goes! 
 
+# Week 2
+
+**Notes**
+- This week we spent more time understanding the sorting process that a calculator goes through to try and calculate the code
+- We did a in person thing where we all became numbers or operations to see how a calculator goes through the entire process
+- It sets a lot of things in stacks and main code to try and seperate and re-put things in the code
+
+**Hard Things**
+- I found the sqrt function pretty hard to implement so I had to go and get help from other people to try and get that working
+- I also foudn the logic a little confusing at first 
+- I think I could spend more time understanding the logistical portion of the code to learn everything. 
+
 # Week 1
 
 **Notes**
