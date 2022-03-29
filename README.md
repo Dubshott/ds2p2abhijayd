@@ -8,8 +8,11 @@ Here are my main pages (Includes the page itself, my repl.it, my team's github, 
 [Page](https://dubshott.github.io/ds2p2abhijayd/)
 [Repl.it](https://replit.com/@GodlyGoats/ds2p2abhijayd#.replit)
 [2nd Repl.it](https://replit.com/@GodlyGoats/Week-1-Work#README.md)
+[3rd Repl.it](https://replit.com/@GodlyGoats/week3ds)
 [Team Github](https://github.com/gracele246/theshop)
 [Personal Github](https://github.com/Dubshott/ds2p2abhijayd)
+
+## Week 2 [REVIEW TICKET LINK](https://github.com/gracele246/theshop/issues/13)
 
 ## Week 1 [REVIEW TICKET LINK](https://github.com/gracele246/theshop/issues/11)
 
