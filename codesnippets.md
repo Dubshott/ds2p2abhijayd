@@ -2,6 +2,33 @@
 
 This is where all the code snippets go!
 
+# Week 2
+
+**Hashmap Initialization to set up operators**
+
+```
+private final Map<String, Integer> OPERATORS = new HashMap<>();
+    {
+        // Map<"token", precedence>
+        OPERATORS.put("*", 2);
+        OPERATORS.put("/", 2);
+        OPERATORS.put("%", 2);
+        OPERATORS.put("+", 4);
+        OPERATORS.put("-", 4);
+        OPERATORS.put("^", 1);
+        OPERATORS.put("sqrt", 1);
+    }
+```
+This peice of code allowd us to set up the operators that the hasmap is looking for in order to follow PEMDAS and calculate the entire thing properly. 
+
+```
+if (isNumeric(this.reverse_polish.get(i))){
+                // Push number to stack: number is in the stack
+                calculation.push(this.reverse_polish.get(i));
+            }
+```
+Small snippet of code to show the reverse polish notation and function that we used in this project. 
+
 # Week 1
 
 **Linked list and Java Generic T**
