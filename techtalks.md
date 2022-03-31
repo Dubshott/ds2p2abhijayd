@@ -8,6 +8,7 @@ This is where all the tech talk information goes!
 - This week we spent more time understanding the sorting process that a calculator goes through to try and calculate the code
 - We did a in person thing where we all became numbers or operations to see how a calculator goes through the entire process
 - It sets a lot of things in stacks and main code to try and seperate and re-put things in the code
+- Spen time learning about hashmaps as well and how they work in this calculator lab
 
 **Hard Things**
 - I found the sqrt function pretty hard to implement so I had to go and get help from other people to try and get that working
