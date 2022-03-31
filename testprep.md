@@ -2,6 +2,13 @@
 
 This is where all my test prep material goes! 
 
+# Week 2
+
+**AP Prep**
+- Took a fat L this week mostly on the knowledge of hashmaps and the logic behind a tokenized calculator
+- need to focus on learning different data structures and how they can be applied into a real world scenario
+- Could work on more logic things to understand how everything actually works. 
+
 # Week 1
 
 **AP Prep**
