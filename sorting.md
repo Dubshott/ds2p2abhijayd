@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Sort Implementations & Big O Complexities
 
 First of all, what is sorting? Sorting is when you are placing items in a list in order based on what you require. We use sorting algorithms to be efficient and sort everythiing that we need properly. 
