@@ -2,6 +2,13 @@
 
 This is where all my test prep material goes! 
 
+# Week 3
+
+**AP Prep**
+- I could spend more time working with sorting and bubble sort
+- I understand how bubble sort and other sorting methods work, but I was unable to actually create the code for it due to the lack of tiem
+- Spend more time on the othe rmethods of sorting because I never really learned those. 
+
 # Week 2
 
 **AP Prep**
