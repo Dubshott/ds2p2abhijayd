@@ -10,6 +10,8 @@ Here are my main pages (Includes the page itself, my repl.it, my team's github, 
 [Team Github](https://github.com/gracele246/theshop)
 [Personal Github](https://github.com/Dubshott/ds2p2abhijayd)
 
+## Week 3 [REVIEW TICKET LINK]()
+
 ## Week 2 [REVIEW TICKET LINK](https://github.com/gracele246/theshop/issues/13)
 
 ## Week 1 [REVIEW TICKET LINK](https://github.com/gracele246/theshop/issues/11)
