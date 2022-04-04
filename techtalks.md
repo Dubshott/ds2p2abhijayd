@@ -2,6 +2,18 @@
 
 This is where all the tech talk information goes! 
 
+# Week 3
+
+**Notes**
+- This week we learned more about sorting and how to use those sorts within different aspects
+- Learned about the differences between each of the following sorting methods
+- Spent time working with some of them
+- For example, bubble sort is when you leave a space open to give the code within
+
+**Hard Things**
+- It was hard to actually implement the things because I don't know java that well 
+- The bubble sort was fairly easy since I already knew how it worked, but I wasn't able to do the other sorts that well
+
 # Week 2
 
 **Notes**
