@@ -2,6 +2,16 @@
 
 This is where all the tech talk information goes! 
 
+# Week 4
+
+**Notes**
+
+- I learned a lot about the different sorting methods.
+- Bubble sort is a sorting method which is fairly simple to go through. All you need to do is create a temporary variable that can take in the value from one of your main variables to make space for another variable.
+- Selection sort is another type of sorting method. The way it works is it constantly finds the lowest number in the list from the unsorted part and drops it at the beginning of the list. It uses 2 subarrays to make sure that it sorts properly. It keeps iterating through the sorted codes until it doesn’t have to do anything anymore.
+- Insertion sort is another type of sorting type. This is also a pretty simple algorithm. This also splits into subarrays with a sorted and unsorted part.
+- Merge Sort is also another type of sorting method. To make the code more efficient, divides the array into two halves, sorts, and then merges those sorted code.
+
 # Week 3
 
 **Notes**
